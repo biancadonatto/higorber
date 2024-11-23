@@ -1,6 +1,6 @@
 ## Olá! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-Eu sou Higor Bernardes, um entusiasta de tecnologia e estudante/desenvolvedor em [sua área de especialização ou curso]. Adoro colaborar em projetos inovadores e aprender constantemente. Fique à vontade para me encontrar nas redes sociais:
+Eu sou Higor Bernardes, formado em Análise e Desenvolvimento de Sistemas e atualmente professor do curso técnico em Desenvolvimento de Sistemas. Tenho paixão por compartilhar conhecimento e desenvolver soluções criativas em tecnologia. Além disso, mantenho-me atualizado e preparado para desafios no mercado de trabalho, com sólido domínio em ferramentas como Python, PHP, JavaScript e outras tecnologias. Fique à vontade para me encontrar nas redes sociais:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Higor%20Bernardes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/higor-bernardes/)](https://www.linkedin.com/in/higor-bernardes/)
 [![Instagram Badge](https://img.shields.io/badge/-@prof_higoor-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/prof_higoor/)](https://www.instagram.com/prof_higoor/)
@@ -10,9 +10,9 @@ Eu sou Higor Bernardes, um entusiasta de tecnologia e estudante/desenvolvedor em
 
 ## ⚡ Tecnologias que eu uso
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
@@ -23,7 +23,7 @@ Eu sou Higor Bernardes, um entusiasta de tecnologia e estudante/desenvolvedor em
 
 ## 📊 Estatísticas no GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=higober&count_private=true&show_icons=true&include_all_commits=true)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=higorber&count_private=true&show_icons=true&include_all_commits=true)
 
 ---
 
