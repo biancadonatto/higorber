@@ -31,7 +31,4 @@ Sou Higor Bernardes, formado em Análise e Desenvolvimento de Sistemas e atualme
 
 ---
 
-![Snake animation](https://github.com/higorber/higorber/blob/output/github-contribution-grid-snake.svg)
-
-
 ![Badge de Visitantes](https://visitor-badge.laobi.icu/badge?page_id=higober.higober)
