@@ -1,6 +1,6 @@
 ## Olá! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-Eu sou Higor Bernardes, formado em Análise e Desenvolvimento de Sistemas e atualmente professor e coordenador do curso técnico em Desenvolvimento de Sistemas do Estado de São Paulo. Tenho paixão por compartilhar conhecimento e desenvolver soluções criativas em tecnologia. Além disso, mantenho-me atualizado e preparado para desafios no mercado de trabalho, com sólido domínio em ferramentas como Python, PHP, JavaScript e outras tecnologias. Fique à vontade para me encontrar nas redes sociais:
+Sou Higor Bernardes, formado em Análise e Desenvolvimento de Sistemas e atualmente professor e coordenador do curso técnico de Desenvolvimento de Sistemas. Tenho paixão por compartilhar conhecimento e resolver desafios tecnológicos, com experiência em Python, PHP, JavaScript e outras ferramentas. Fique à vontade para me encontrar nas redes sociais:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Higor%20Bernardes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/higor-bernardes/)](https://www.linkedin.com/in/higor-bernardes/)
 [![Instagram Badge](https://img.shields.io/badge/-@prof_higoor-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/prof_higoor/)](https://www.instagram.com/prof_higoor/)
@@ -23,7 +23,7 @@ Eu sou Higor Bernardes, formado em Análise e Desenvolvimento de Sistemas e atua
 
 ## 📊 Estatísticas no GitHub
 
-<div>
+<div align="center">
   <a href="https://github.com/higorber">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=higorber&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higorber&layout=compact&langs_count=7&theme=tokyonight"/>
